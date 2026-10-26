@@ -32,7 +32,7 @@
 
 ## Genel Bakış
 
-**Glass Icons Pack 3 (Fresh & Mint Glass)**, **Elgato Stream Deck**, **Evoxdeck**, **Loupedeck** ve **Touch Portal** donanımları için tasarlanmış, yüksek kaliteli fiziksel buzlu cam ikon koleksiyonudur.
+**Glass Icons Pack 3 (Fresh & Mint Glass)**, **Stream & Macro Decks**, **Evoxdeck**, **Loupedeck** ve **Touch Portal** donanımları için tasarlanmış, yüksek kaliteli fiziksel buzlu cam ikon koleksiyonudur.
 
 Her bir ikon Retina $128\times 128$ çözünürlükte, süperelips ($p=3.65, r=53$) squircle cam kiremit üzerinde, yumuşak ışık kırılmaları, iç pah ışıltısı ve derinlikli 3D kabartmalı beyaz sembollerle üretilmiştir.
 
@@ -77,7 +77,7 @@ Hiçbir dosya indirmeden 1,000 ikonun tamamını doğrudan tarayıcınızda aray
 flowchart TD
     A["GitHub Releases'ten<br/>.evoxpack Dosyasını İndir"] --> B{"Kullandığınız Yazılım"}
     B -->|"Evoxdeck"| C["Tek Tıkla İçe Aktar<br/>Dosyaya çift tıkla veya Evoxdeck'e sürükle"]
-    B -->|"Elgato Stream Deck"| D["icons/ Klasörünü Çıkart<br/>PNG'leri doğrudan tuşlara ata"]
+    B -->|"Stream & Macro Decks"| D["icons/ Klasörünü Çıkart<br/>PNG'leri doğrudan tuşlara ata"]
     C --> E["1,000 İkon Anında Kullanıma Hazır"]
     D --> E
 ```
@@ -87,9 +87,9 @@ flowchart TD
 2. Dosyaya çift tıklayın veya **Evoxdeck** ➔ **Ayarlar** ➔ **İkon Paketleri** ➔ **Paket İçe Aktar** yolunu izleyin.
 3. 1,000 ikon anında arama ve etiketleriyle kütüphanenize eklenir.
 
-### 2. Elgato Stream Deck
+### 2. Stream & Macro Decks
 1. Depodaki `icons/` klasörünü açın.
-2. Elgato Stream Deck yazılımında istediğiniz PNG dosyasını tuş yuvasına sürükleyip bırakın.
+2. Stream & Macro Decks yazılımında istediğiniz PNG dosyasını tuş yuvasına sürükleyip bırakın.
 
 ---
 

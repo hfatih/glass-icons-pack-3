@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageType": "icon_pack",
   "name": "Glass Icons Pack 3 (Fresh & Mint Glass)",
-  "description": "Zengin Deniz Mavisi (Teal) ve Parlak Canlı Yeşil Cam temalarında 1.000 adet fiziksel buzlu cam Stream Deck & Evoxdeck ikon paketi.",
+  "description": "Zengin Deniz Mavisi (Teal) ve Parlak Canlı Yeşil Cam temalarında 1.000 adet fiziksel buzlu cam evoXdeck ikon paketi.",
   "version": "1.0.0",
   "author": {
     "id": "hfatih",
@@ -1517,11 +1517,6 @@
         "path": "icons/icon-2300-teal-pinterest.png"
       },
       {
-        "id": "icon-2301-teal-elgato",
-        "name": "Teal Elgato",
-        "path": "icons/icon-2301-teal-elgato.png"
-      },
-      {
         "id": "icon-2302-teal-razer",
         "name": "Teal Razer",
         "path": "icons/icon-2302-teal-razer.png"
@@ -1785,11 +1780,6 @@
         "id": "icon-2354-teal-cooler-master",
         "name": "Teal Cooler Master",
         "path": "icons/icon-2354-teal-cooler-master.png"
-      },
-      {
-        "id": "icon-2355-teal-patreon",
-        "name": "Teal Patreon",
-        "path": "icons/icon-2355-teal-patreon.png"
       },
       {
         "id": "icon-2356-teal-buy-me-a-coffee",
@@ -4017,11 +4007,6 @@
         "path": "icons/icon-4300-green-pinterest.png"
       },
       {
-        "id": "icon-4301-green-elgato",
-        "name": "Green Elgato",
-        "path": "icons/icon-4301-green-elgato.png"
-      },
-      {
         "id": "icon-4302-green-razer",
         "name": "Green Razer",
         "path": "icons/icon-4302-green-razer.png"
@@ -4285,11 +4270,6 @@
         "id": "icon-4354-green-cooler-master",
         "name": "Green Cooler Master",
         "path": "icons/icon-4354-green-cooler-master.png"
-      },
-      {
-        "id": "icon-4355-green-patreon",
-        "name": "Green Patreon",
-        "path": "icons/icon-4355-green-patreon.png"
       },
       {
         "id": "icon-4356-green-buy-me-a-coffee",

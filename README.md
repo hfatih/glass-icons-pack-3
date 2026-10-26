@@ -32,7 +32,7 @@
 
 ## Overview
 
-**Glass Icons Pack 3 (Fresh & Mint Glass)** is a premium physical frosted glass icon collection handcrafted for **Elgato Stream Deck**, **Evoxdeck**, **Loupedeck**, and **Touch Portal** controllers.
+**Glass Icons Pack 3 (Fresh & Mint Glass)** is a premium physical frosted glass icon collection handcrafted for **Stream & Macro Decks**, **Evoxdeck**, **Loupedeck**, and **Touch Portal** controllers.
 
 Every icon is precision-rendered at Retina $128\times 128$ resolution using an advanced superellipse squircle formula ($p=3.65, r=53$), top-left diffuse light refraction (*specular bloom*), internal bottom rim lighting, and tactile 3D embossed glyphs.
 
@@ -77,7 +77,7 @@ Browse all 1,000 icons, search keywords, switch colors, and test keys live in yo
 flowchart TD
     A["Download .evoxpack from Releases"] --> B{"Your Hardware / Software"}
     B -->|"Evoxdeck"| C["One-Click Import<br/>Double-click file or drag into Evoxdeck"]
-    B -->|"Elgato Stream Deck"| D["Extract icons/ folder<br/>Drag PNG directly to key slot"]
+    B -->|"Stream & Macro Decks"| D["Extract icons/ folder<br/>Drag PNG directly to key slot"]
     C --> E["1,000 Icons Ready Instantly"]
     D --> E
 ```
@@ -87,7 +87,7 @@ flowchart TD
 2. Double-click the file or navigate to **Evoxdeck** ➔ **Settings** ➔ **Icon Packs** ➔ **Import Pack**.
 3. All 1,000 icons appear instantly with full search and tags.
 
-### 2. Elgato Stream Deck
+### 2. Stream & Macro Decks
 1. Extract the `icons/` folder from the repository or `.evoxpack` container.
 2. Drag and drop any PNG onto your Stream Deck key slot.
 
